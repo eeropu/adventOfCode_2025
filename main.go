@@ -8,5 +8,5 @@ import (
 
 func main() {
 	fmt.Println("Hello world!")
-	solutions.SolvePuzzle2()
+	solutions.SolvePuzzle3()
 }
