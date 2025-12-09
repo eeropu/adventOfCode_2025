@@ -16,3 +16,6 @@ var Puzzle4Input string
 
 //go:embed puzzle5Input.txt
 var Puzzle5Input string
+
+//go:embed puzzle6Input.txt
+var Puzzle6Input string
